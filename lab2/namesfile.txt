@@ -1,0 +1,3 @@
+tekst w pliku
+druga linijka tekstu
+trzecia linijka tekstu
